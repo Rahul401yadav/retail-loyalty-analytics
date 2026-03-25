@@ -1,0 +1,794 @@
+customer_id,last_order_date,frequency,monetary,recency,r_score,f_score,m_score,rfm_total,segment,cluster,churn_risk
+AA-10315,2017-06-29,5,5563.5599999999995,185,2,2,5,9,Potential Loyalists,0,Medium Risk
+AA-10375,2017-12-11,9,1056.39,20,5,5,2,12,Loyal Customers,0,Low Risk
+AA-10480,2017-04-15,4,1790.512,260,1,1,3,5,At Risk,0,Medium Risk
+AA-10645,2017-11-05,6,5086.9349999999995,56,3,3,5,11,Loyal Customers,2,Low Risk
+AB-10015,2016-11-10,3,886.1560000000001,416,1,1,1,3,Lost Customers,1,Medium Risk
+AB-10060,2017-11-06,8,7755.619999999999,55,3,4,5,12,Loyal Customers,2,Low Risk
+AB-10105,2017-11-19,10,14473.571,42,4,5,5,14,Champions,2,Low Risk
+AB-10150,2017-11-19,5,966.71,42,4,2,2,8,Potential Loyalists,0,Low Risk
+AB-10165,2017-12-05,8,1113.838,26,5,4,2,11,Loyal Customers,0,Low Risk
+AB-10255,2017-07-17,9,914.5319999999999,167,2,5,1,8,Potential Loyalists,0,Medium Risk
+AB-10600,2017-11-10,4,1515.862,51,4,1,2,7,Potential Loyalists,0,Low Risk
+AC-10420,2017-05-12,3,925.8,233,1,1,1,3,Lost Customers,0,Medium Risk
+AC-10450,2017-12-19,7,5527.846,12,5,3,5,13,Champions,2,Low Risk
+AC-10615,2017-12-24,5,2537.6859999999997,7,5,2,3,10,Loyal Customers,0,Low Risk
+AC-10660,2017-03-23,5,657.316,283,1,2,1,4,Lost Customers,0,Medium Risk
+AD-10180,2017-12-01,8,6106.88,30,4,4,5,13,Champions,2,Low Risk
+AF-10870,2017-11-19,7,2052.908,42,4,3,3,10,Loyal Customers,0,Low Risk
+AF-10885,2016-11-10,4,861.565,416,1,1,1,3,Lost Customers,1,Medium Risk
+AG-10270,2017-03-27,5,2582.8979999999997,279,1,2,3,6,At Risk,0,Medium Risk
+AG-10300,2017-09-03,4,367.548,119,2,1,1,4,Lost Customers,0,Medium Risk
+AG-10330,2017-12-22,5,660.972,9,5,2,1,8,Potential Loyalists,0,Low Risk
+AG-10390,2017-09-07,5,200.94500000000002,115,2,2,1,5,At Risk,0,Medium Risk
+AG-10495,2017-10-13,8,2356.855,79,3,4,3,10,Loyal Customers,0,Low Risk
+AG-10525,2015-09-07,4,1455.038,846,1,1,2,4,Lost Customers,1,Medium Risk
+AG-10675,2017-09-24,7,3489.0396,98,3,3,4,10,Loyal Customers,0,Medium Risk
+AG-10765,2017-10-14,4,170.584,78,3,1,1,5,At Risk,0,Low Risk
+AG-10900,2017-09-25,10,4510.7970000000005,97,3,5,5,13,Champions,2,Medium Risk
+AH-10030,2017-12-18,7,1744.7,13,5,3,3,11,Loyal Customers,0,Low Risk
+AH-10075,2017-11-26,10,3250.337,35,4,5,4,13,Champions,2,Low Risk
+AH-10120,2017-10-31,7,1735.5140000000001,61,3,3,2,8,Potential Loyalists,0,Low Risk
+AH-10195,2017-11-05,4,1587.452,56,3,1,2,6,At Risk,0,Low Risk
+AH-10210,2017-12-24,9,4805.344,7,5,5,5,15,Champions,2,Low Risk
+AH-10465,2017-05-14,5,2495.3916,231,1,2,3,6,At Risk,0,Medium Risk
+AH-10585,2017-12-09,4,738.504,22,5,1,1,7,Potential Loyalists,0,Low Risk
+AH-10690,2016-11-15,12,7888.294,411,1,5,5,11,Loyal Customers,2,Medium Risk
+AI-10855,2017-12-17,10,4375.786,14,5,5,5,15,Champions,2,Low Risk
+AJ-10780,2017-10-16,7,4867.344,76,3,3,5,11,Loyal Customers,2,Low Risk
+AJ-10795,2017-07-17,7,4501.3910000000005,167,2,3,5,10,Loyal Customers,2,Medium Risk
+AJ-10945,2017-10-06,7,1839.24,86,3,3,3,9,Potential Loyalists,0,Low Risk
+AJ-10960,2017-10-17,3,629.248,75,3,1,1,5,At Risk,0,Medium Risk
+AM-10360,2017-12-02,5,814.012,29,4,2,1,7,Potential Loyalists,0,Low Risk
+AM-10705,2017-07-21,8,5664.022,163,2,4,5,11,Loyal Customers,2,Medium Risk
+AO-10810,2016-08-16,1,161.28,502,1,1,1,3,Lost Customers,1,High Risk
+AP-10720,2017-11-19,8,1638.5539999999999,42,4,4,2,10,Loyal Customers,0,Low Risk
+AP-10915,2017-09-23,10,3323.5559999999996,99,3,5,4,12,Loyal Customers,2,Medium Risk
+AR-10345,2017-09-10,4,1055.694,112,2,1,2,5,At Risk,0,Medium Risk
+AR-10405,2017-08-27,5,2236.1279999999997,126,2,2,3,7,Potential Loyalists,0,Medium Risk
+AR-10510,2017-12-16,5,264.86400000000003,15,5,2,1,8,Potential Loyalists,0,Low Risk
+AR-10540,2017-12-24,6,6608.448,7,5,3,5,13,Champions,2,Low Risk
+AR-10570,2016-07-14,1,88.15,535,1,1,1,3,Lost Customers,1,High Risk
+AR-10825,2017-11-02,8,4523.336,59,3,4,5,12,Loyal Customers,2,Low Risk
+AS-10045,2017-10-03,7,3050.692,89,3,3,4,10,Loyal Customers,0,Low Risk
+AS-10090,2017-12-02,9,3255.31,29,4,5,4,13,Champions,2,Low Risk
+AS-10135,2017-11-19,2,58.82,42,4,1,1,6,At Risk,0,Medium Risk
+AS-10225,2017-12-08,5,4260.784000000001,23,5,2,4,11,Loyal Customers,0,Low Risk
+AS-10240,2017-06-21,7,584.608,193,2,3,1,6,At Risk,0,Medium Risk
+AS-10285,2017-12-11,6,3214.236,20,5,3,4,12,Loyal Customers,0,Low Risk
+AS-10630,2017-09-29,7,833.398,93,3,3,1,7,Potential Loyalists,0,Medium Risk
+AT-10435,2017-12-09,6,1171.8139999999999,22,5,3,2,10,Loyal Customers,0,Low Risk
+AT-10735,2017-12-17,10,3831.8639999999996,14,5,5,4,14,Champions,2,Low Risk
+AW-10840,2017-12-10,4,649.376,21,5,1,1,7,Potential Loyalists,0,Low Risk
+AW-10930,2017-11-14,7,2852.9680000000003,47,4,3,4,11,Loyal Customers,0,Low Risk
+AY-10555,2017-12-16,4,497.014,15,5,1,1,7,Potential Loyalists,0,Low Risk
+AZ-10750,2017-07-23,6,1622.018,161,2,3,2,7,Potential Loyalists,0,Medium Risk
+BB-10990,2017-09-16,5,744.34,106,2,2,1,5,At Risk,0,Medium Risk
+BB-11545,2017-12-02,9,6765.728,29,4,5,5,14,Champions,2,Low Risk
+BC-11125,2017-06-11,9,2933.676,203,2,5,4,11,Loyal Customers,2,Medium Risk
+BD-11320,2017-11-27,12,5718.521,34,4,5,5,14,Champions,2,Low Risk
+BD-11500,2017-11-25,6,4411.243,36,4,3,5,12,Loyal Customers,0,Low Risk
+BD-11560,2017-03-27,2,320.54,279,1,1,1,3,Lost Customers,1,High Risk
+BD-11605,2017-09-24,7,3288.471,98,3,3,4,10,Loyal Customers,0,Medium Risk
+BD-11620,2017-10-22,6,1538.1100000000001,70,3,3,2,8,Potential Loyalists,0,Low Risk
+BD-11635,2017-12-21,3,582.646,10,5,1,1,7,Potential Loyalists,0,Medium Risk
+BD-11725,2017-09-28,6,1526.5,94,3,3,2,8,Potential Loyalists,0,Medium Risk
+BD-11770,2017-02-06,6,658.466,328,1,3,1,5,At Risk,0,Medium Risk
+BE-11335,2017-09-02,5,4204.676,120,2,2,4,8,Potential Loyalists,0,Medium Risk
+BE-11410,2017-09-23,5,2261.438,99,3,2,3,8,Potential Loyalists,0,Medium Risk
+BE-11455,2017-04-20,6,1727.652,255,1,3,2,6,At Risk,0,Medium Risk
+BF-10975,2017-09-30,7,599.798,92,3,3,1,7,Potential Loyalists,0,Medium Risk
+BF-11005,2017-11-21,4,1333.8799999999999,40,4,1,2,7,Potential Loyalists,0,Low Risk
+BF-11020,2017-10-17,8,2888.506,75,3,4,4,11,Loyal Customers,2,Low Risk
+BF-11080,2017-12-05,3,272.95000000000005,26,5,1,1,7,Potential Loyalists,0,Medium Risk
+BF-11170,2017-12-14,11,5907.972,17,5,5,5,15,Champions,2,Low Risk
+BF-11215,2017-10-26,4,1585.162,66,3,1,2,6,At Risk,0,Low Risk
+BF-11275,2017-11-03,3,791.99,58,3,1,1,5,At Risk,0,Medium Risk
+BG-11035,2017-12-02,8,2798.948,29,4,4,4,12,Loyal Customers,2,Low Risk
+BG-11695,2017-11-24,6,1874.172,37,4,3,3,10,Loyal Customers,0,Low Risk
+BG-11740,2017-11-03,6,1006.356,58,3,3,2,8,Potential Loyalists,0,Low Risk
+BH-11710,2017-12-07,8,6255.351,24,5,4,5,14,Champions,2,Low Risk
+BK-11260,2017-10-14,6,659.138,78,3,3,1,7,Potential Loyalists,0,Low Risk
+BM-11140,2017-02-26,4,11789.630000000001,308,1,1,5,7,Potential Loyalists,2,Medium Risk
+BM-11575,2017-09-21,6,808.162,101,3,3,1,7,Potential Loyalists,0,Medium Risk
+BM-11650,2017-11-27,11,7294.185,34,4,5,5,14,Champions,2,Low Risk
+BM-11785,2017-05-26,10,1338.842,219,2,5,2,9,Potential Loyalists,2,Medium Risk
+BN-11470,2017-12-06,4,265.296,25,5,1,1,7,Potential Loyalists,0,Low Risk
+BN-11515,2017-12-21,5,1459.344,10,5,2,2,9,Potential Loyalists,0,Low Risk
+BO-11350,2017-08-15,5,2682.728,138,2,2,3,7,Potential Loyalists,0,Medium Risk
+BO-11425,2017-10-16,2,130.83,76,3,1,1,5,At Risk,0,Medium Risk
+BP-11050,2017-10-08,5,983.42,84,3,2,2,7,Potential Loyalists,0,Low Risk
+BP-11095,2017-12-13,12,2442.044,18,5,5,3,13,Champions,2,Low Risk
+BP-11155,2017-10-02,6,1697.861,90,3,3,2,8,Potential Loyalists,0,Low Risk
+BP-11185,2017-12-29,9,3675.861,2,5,5,4,14,Champions,2,Low Risk
+BP-11230,2017-11-21,5,1181.49,40,4,2,2,8,Potential Loyalists,0,Low Risk
+BP-11290,2017-12-18,7,2475.157,13,5,3,3,11,Loyal Customers,0,Low Risk
+BS-11365,2016-06-20,5,10501.653,559,1,2,5,8,Potential Loyalists,1,Medium Risk
+BS-11380,2017-12-02,5,3887.834,29,4,2,4,10,Loyal Customers,0,Low Risk
+BS-11590,2017-11-25,6,2454.928,36,4,3,3,10,Loyal Customers,0,Low Risk
+BS-11665,2016-05-27,3,3288.1099999999997,583,1,1,4,6,At Risk,1,Medium Risk
+BS-11755,2017-12-29,7,2562.382,2,5,3,3,11,Loyal Customers,0,Low Risk
+BS-11800,2017-04-09,2,949.43,266,1,1,1,3,Lost Customers,1,High Risk
+BT-11305,2017-01-28,5,2567.656,337,1,2,3,6,At Risk,1,Medium Risk
+BT-11395,2017-03-03,6,2186.613,303,1,3,3,7,Potential Loyalists,0,Medium Risk
+BT-11440,2016-06-18,4,603.876,561,1,1,1,3,Lost Customers,1,Medium Risk
+BT-11485,2016-03-11,2,415.196,660,1,1,1,3,Lost Customers,1,High Risk
+BT-11530,2017-09-30,5,2684.4919999999997,92,3,2,3,8,Potential Loyalists,0,Medium Risk
+BT-11680,2017-12-10,7,3196.752,21,5,3,4,12,Loyal Customers,0,Low Risk
+BV-11245,2017-01-30,5,1523.273,335,1,2,2,5,At Risk,1,Medium Risk
+BW-11065,2017-06-01,3,385.516,213,2,1,1,4,Lost Customers,0,Medium Risk
+BW-11110,2017-08-31,8,4750.358,122,2,4,5,11,Loyal Customers,2,Medium Risk
+BW-11200,2017-06-10,6,1738.406,204,2,3,2,7,Potential Loyalists,0,Medium Risk
+CA-11965,2017-09-25,6,3789.7228,97,3,3,4,10,Loyal Customers,0,Medium Risk
+CA-12055,2016-11-24,5,1679.724,402,1,2,2,5,At Risk,1,Medium Risk
+CA-12265,2017-11-04,9,2648.2872,57,3,5,3,11,Loyal Customers,2,Low Risk
+CA-12310,2017-12-17,4,1421.954,14,5,1,2,8,Potential Loyalists,0,Low Risk
+CA-12775,2017-09-01,7,3041.5660000000003,121,2,3,4,9,Potential Loyalists,0,Medium Risk
+CB-12025,2017-11-13,10,6076.139,48,4,5,5,14,Champions,2,Low Risk
+CB-12415,2017-12-04,8,1949.2,27,5,4,3,12,Loyal Customers,0,Low Risk
+CB-12535,2017-06-16,8,4246.4555,198,2,4,4,10,Loyal Customers,2,Medium Risk
+CC-12100,2016-09-29,6,1770.945,458,1,3,3,7,Potential Loyalists,1,Medium Risk
+CC-12145,2017-09-15,7,2471.65,107,2,3,3,8,Potential Loyalists,0,Medium Risk
+CC-12220,2017-12-10,12,3913.4179999999997,21,5,5,4,14,Champions,2,Low Risk
+CC-12370,2017-11-17,5,12129.072,44,4,2,5,11,Loyal Customers,2,Low Risk
+CC-12430,2017-12-30,10,2870.05,1,5,5,4,14,Champions,2,Low Risk
+CC-12475,2017-11-21,9,1659.438,40,4,5,2,11,Loyal Customers,2,Low Risk
+CC-12550,2017-12-03,3,113.832,28,4,1,1,6,At Risk,0,Medium Risk
+CC-12610,2017-11-26,7,2540.631,35,4,3,3,10,Loyal Customers,0,Low Risk
+CC-12670,2017-12-01,7,2269.7015,30,4,3,3,10,Loyal Customers,0,Low Risk
+CC-12685,2015-10-23,4,2854.1150000000002,800,1,1,4,6,At Risk,1,Medium Risk
+CD-11920,2017-11-20,5,2033.9679999999998,41,4,2,3,9,Potential Loyalists,0,Low Risk
+CD-11980,2017-11-06,3,639.766,55,3,1,1,5,At Risk,0,Medium Risk
+CD-12280,2017-11-18,2,1205.5839999999998,43,4,1,2,7,Potential Loyalists,0,Medium Risk
+CD-12790,2016-11-26,5,1860.732,400,1,2,3,6,At Risk,1,Medium Risk
+CG-12040,2017-11-11,6,904.4680000000001,50,4,3,1,8,Potential Loyalists,0,Low Risk
+CG-12520,2017-01-26,3,1148.78,339,1,1,2,4,Lost Customers,1,Medium Risk
+CH-12070,2016-02-08,3,1537.236,692,1,1,2,4,Lost Customers,1,Medium Risk
+CJ-11875,2016-12-30,1,16.52,366,1,1,1,3,Lost Customers,1,High Risk
+CJ-12010,2017-06-24,8,11164.974,190,2,4,5,11,Loyal Customers,2,Medium Risk
+CK-12205,2017-11-21,13,3154.855,40,4,5,4,13,Champions,2,Low Risk
+CK-12325,2017-09-01,5,2945.321,121,2,2,4,8,Potential Loyalists,0,Medium Risk
+CK-12595,2017-11-17,11,2372.75,44,4,5,3,12,Loyal Customers,2,Low Risk
+CK-12760,2017-10-09,9,1582.109,83,3,5,2,10,Loyal Customers,2,Low Risk
+CL-11890,2017-09-15,4,1262.0140000000001,107,2,1,2,5,At Risk,0,Medium Risk
+CL-12565,2017-03-21,12,10880.546,285,1,5,5,11,Loyal Customers,2,Medium Risk
+CL-12700,2017-09-16,5,2353.5860000000002,106,2,2,3,7,Potential Loyalists,0,Medium Risk
+CM-11815,2017-08-21,6,1673.8880000000001,132,2,3,2,7,Potential Loyalists,0,Medium Risk
+CM-11935,2016-01-22,2,565.392,709,1,1,1,3,Lost Customers,1,High Risk
+CM-12115,2017-12-22,4,1661.61,9,5,1,2,8,Potential Loyalists,0,Low Risk
+CM-12160,2017-12-04,6,2533.314,27,5,3,3,11,Loyal Customers,0,Low Risk
+CM-12190,2017-12-22,6,1475.144,9,5,3,2,10,Loyal Customers,0,Low Risk
+CM-12235,2016-12-10,5,2305.712,386,1,2,3,6,At Risk,1,Medium Risk
+CM-12385,2017-11-23,4,8954.02,38,4,1,5,10,Loyal Customers,2,Low Risk
+CM-12445,2016-10-20,3,287.99,437,1,1,1,3,Lost Customers,1,Medium Risk
+CM-12655,2017-12-03,6,6339.5576,28,4,3,5,12,Loyal Customers,2,Low Risk
+CM-12715,2015-03-01,4,3984.4523999999997,1036,1,1,4,6,At Risk,1,Medium Risk
+CP-12085,2017-10-09,8,5402.254,83,3,4,5,12,Loyal Customers,2,Low Risk
+CP-12340,2017-07-23,8,5888.275,161,2,4,5,11,Loyal Customers,2,Medium Risk
+CR-12580,2017-11-03,4,2148.852,58,3,1,3,7,Potential Loyalists,0,Low Risk
+CR-12625,2016-09-16,3,475.90000000000003,471,1,1,1,3,Lost Customers,1,Medium Risk
+CR-12730,2017-10-13,4,1600.55,79,3,1,2,6,At Risk,0,Low Risk
+CR-12820,2017-10-06,3,1397.8724,86,3,1,2,6,At Risk,0,Medium Risk
+CS-11845,2017-09-30,5,1278.9540000000002,92,3,2,2,7,Potential Loyalists,0,Medium Risk
+CS-11860,2017-07-21,6,537.632,163,2,3,1,6,At Risk,0,Medium Risk
+CS-11950,2017-12-05,11,3036.547,26,5,5,4,14,Champions,2,Low Risk
+CS-12130,2016-08-28,4,884.64,490,1,1,1,3,Lost Customers,1,Medium Risk
+CS-12175,2017-05-12,5,844.4580000000001,233,1,2,1,4,Lost Customers,0,Medium Risk
+CS-12250,2017-12-04,12,2754.2160000000003,27,5,5,4,14,Champions,2,Low Risk
+CS-12355,2017-12-24,11,3202.162,7,5,5,4,14,Champions,2,Low Risk
+CS-12400,2017-12-28,9,3651.8585000000003,3,5,5,4,14,Champions,2,Low Risk
+CS-12460,2017-12-03,2,550.644,28,4,1,1,6,At Risk,0,Medium Risk
+CS-12490,2016-11-01,4,1077.2285,425,1,1,2,4,Lost Customers,1,Medium Risk
+CS-12505,2017-11-02,6,5690.055,59,3,3,5,11,Loyal Customers,2,Low Risk
+CT-11995,2017-09-25,8,3241.898,97,3,4,4,11,Loyal Customers,2,Medium Risk
+CV-12295,2017-04-20,5,2830.6279999999997,255,1,2,4,7,Potential Loyalists,0,Medium Risk
+CV-12805,2017-12-25,9,2370.3136,6,5,5,3,13,Champions,2,Low Risk
+CW-11905,2017-12-08,6,1136.592,23,5,3,2,10,Loyal Customers,0,Low Risk
+CY-12745,2017-10-31,8,2900.026,61,3,4,4,11,Loyal Customers,2,Low Risk
+Co-12640,2016-06-29,5,1300.076,550,1,2,2,5,At Risk,1,Medium Risk
+DA-13450,2017-01-12,4,156.76,353,1,1,1,3,Lost Customers,1,Medium Risk
+DB-12910,2017-12-09,8,2171.5989999999997,22,5,4,3,12,Loyal Customers,0,Low Risk
+DB-12970,2017-05-03,5,2839.2272,242,1,2,4,7,Potential Loyalists,0,Medium Risk
+DB-13060,2017-12-14,7,4531.646,17,5,3,5,13,Champions,2,Low Risk
+DB-13120,2017-11-12,7,2973.094,49,4,3,4,11,Loyal Customers,0,Low Risk
+DB-13210,2017-12-21,10,2332.5769999999998,10,5,5,3,13,Champions,2,Low Risk
+DB-13270,2017-11-07,8,4655.897,54,4,4,5,13,Champions,2,Low Risk
+DB-13360,2017-04-10,5,1081.466,265,1,2,2,5,At Risk,0,Medium Risk
+DB-13405,2017-06-26,4,1711.692,188,2,1,2,5,At Risk,0,Medium Risk
+DB-13555,2017-09-14,7,3908.8028,108,2,3,4,9,Potential Loyalists,2,Medium Risk
+DB-13615,2017-11-27,7,1989.0500000000002,34,4,3,3,10,Loyal Customers,0,Low Risk
+DB-13660,2017-12-18,7,1155.202,13,5,3,2,10,Loyal Customers,0,Low Risk
+DC-12850,2017-11-23,9,3336.1679999999997,38,4,5,4,13,Champions,2,Low Risk
+DC-13285,2017-12-07,5,1174.618,24,5,2,2,9,Potential Loyalists,0,Low Risk
+DD-13570,2017-11-19,6,269.54200000000003,42,4,3,1,8,Potential Loyalists,0,Low Risk
+DE-13255,2016-01-11,5,2550.874,720,1,2,3,6,At Risk,1,Medium Risk
+DF-13135,2016-01-30,3,2390.5339999999997,701,1,1,3,5,At Risk,1,Medium Risk
+DG-13300,2017-11-28,5,3195.818,33,4,2,4,10,Loyal Customers,0,Low Risk
+DH-13075,2017-03-28,6,4932.871999999999,278,1,3,5,9,Potential Loyalists,2,Medium Risk
+DH-13675,2015-11-15,4,1043.096,777,1,1,2,4,Lost Customers,1,Medium Risk
+DJ-13420,2016-04-02,4,2012.52,638,1,1,3,5,At Risk,1,Medium Risk
+DJ-13510,2017-11-12,8,2501.688,49,4,4,3,11,Loyal Customers,2,Low Risk
+DJ-13630,2017-12-18,3,3356.398,13,5,1,4,10,Loyal Customers,0,Medium Risk
+DK-12835,2017-12-09,12,3256.48,22,5,5,4,14,Champions,2,Low Risk
+DK-12895,2017-11-15,5,4282.176,46,4,2,4,10,Loyal Customers,0,Low Risk
+DK-12985,2017-12-23,5,1687.04,8,5,2,2,9,Potential Loyalists,0,Low Risk
+DK-13090,2017-11-18,7,2650.5570000000002,43,4,3,3,10,Loyal Customers,0,Low Risk
+DK-13150,2017-12-20,2,797.832,11,5,1,1,7,Potential Loyalists,0,Medium Risk
+DK-13225,2017-12-20,9,4802.394,11,5,5,5,15,Champions,2,Low Risk
+DK-13375,2017-12-11,8,3318.486,20,5,4,4,13,Champions,2,Low Risk
+DL-12865,2017-09-21,8,1503.112,101,3,4,2,9,Potential Loyalists,0,Medium Risk
+DL-12925,2017-11-03,6,3272.2,58,3,3,4,10,Loyal Customers,0,Low Risk
+DL-13315,2017-12-08,8,1458.258,23,5,4,2,11,Loyal Customers,0,Low Risk
+DL-13330,2017-11-03,4,585.02,58,3,1,1,5,At Risk,0,Low Risk
+DL-13495,2017-10-15,8,3539.322,77,3,4,4,11,Loyal Customers,2,Low Risk
+DM-12955,2017-09-07,7,1322.0339999999999,115,2,3,2,7,Potential Loyalists,0,Medium Risk
+DM-13015,2017-11-03,7,6345.103,58,3,3,5,11,Loyal Customers,2,Low Risk
+DM-13345,2017-12-08,8,4074.4719999999998,23,5,4,4,13,Champions,2,Low Risk
+DM-13525,2016-09-05,3,1376.7920000000001,482,1,1,2,4,Lost Customers,1,Medium Risk
+DN-13690,2017-05-27,7,2139.79,218,2,3,3,8,Potential Loyalists,0,Medium Risk
+DO-13435,2017-08-19,9,1300.0315,134,2,5,2,9,Potential Loyalists,0,Medium Risk
+DO-13645,2017-12-04,7,1267.316,27,5,3,2,10,Loyal Customers,0,Low Risk
+DP-13000,2017-08-26,9,1050.636,127,2,5,2,9,Potential Loyalists,0,Medium Risk
+DP-13105,2017-12-24,8,2215.002,7,5,4,3,12,Loyal Customers,0,Low Risk
+DP-13165,2015-10-10,2,1058.616,813,1,1,2,4,Lost Customers,1,High Risk
+DP-13390,2017-01-06,9,5480.724,359,1,5,5,11,Loyal Customers,2,Medium Risk
+DR-12880,2017-12-27,9,6528.034,4,5,5,5,15,Champions,2,Low Risk
+DR-12940,2017-11-10,8,8350.868,51,4,4,5,13,Champions,2,Low Risk
+DS-13030,2017-09-28,4,1762.213,94,3,1,3,7,Potential Loyalists,0,Medium Risk
+DS-13180,2017-12-07,9,2881.8128,24,5,5,4,14,Champions,2,Low Risk
+DV-13045,2017-12-11,5,1119.483,20,5,2,2,9,Potential Loyalists,0,Low Risk
+DV-13465,2017-12-01,6,3341.587,30,4,3,4,11,Loyal Customers,0,Low Risk
+DW-13195,2017-10-22,6,1080.751,70,3,3,2,8,Potential Loyalists,0,Low Risk
+DW-13480,2017-05-27,5,5271.628,218,2,2,5,9,Potential Loyalists,0,Medium Risk
+DW-13540,2017-09-23,5,344.08000000000004,99,3,2,1,6,At Risk,0,Medium Risk
+DW-13585,2017-05-02,7,1204.854,243,1,3,2,6,At Risk,0,Medium Risk
+Dl-13600,2017-09-02,5,755.602,120,2,2,1,5,At Risk,0,Medium Risk
+Dp-13240,2017-10-07,11,7198.761,85,3,5,5,13,Champions,2,Low Risk
+EA-14035,2017-07-31,13,2846.705,153,2,5,4,11,Loyal Customers,2,Medium Risk
+EB-13705,2017-11-12,9,3644.978,49,4,5,4,13,Champions,2,Low Risk
+EB-13750,2017-11-25,10,3236.314,36,4,5,4,13,Champions,2,Low Risk
+EB-13840,2017-10-01,5,4358.128,91,3,2,5,10,Loyal Customers,0,Medium Risk
+EB-13870,2017-09-21,10,2767.219,101,3,5,4,12,Loyal Customers,2,Medium Risk
+EB-13930,2017-07-22,5,944.6,162,2,2,1,5,At Risk,0,Medium Risk
+EB-13975,2017-12-30,4,1643.255,1,5,1,2,8,Potential Loyalists,0,Low Risk
+EB-14110,2017-09-08,6,3071.126,114,2,3,4,9,Potential Loyalists,0,Medium Risk
+EB-14170,2017-10-09,6,1186.326,83,3,3,2,8,Potential Loyalists,0,Low Risk
+EC-14050,2017-11-07,5,461.914,54,4,2,1,7,Potential Loyalists,0,Low Risk
+ED-13885,2017-08-17,8,3484.92,136,2,4,4,10,Loyal Customers,2,Medium Risk
+EG-13900,2017-12-08,5,1832.0200000000002,23,5,2,3,10,Loyal Customers,0,Low Risk
+EH-13765,2017-08-17,12,10310.88,136,2,5,5,12,Loyal Customers,2,Medium Risk
+EH-13945,2017-05-27,8,684.171,218,2,4,1,7,Potential Loyalists,0,Medium Risk
+EH-13990,2016-11-20,6,825.9499999999999,406,1,3,1,5,At Risk,1,Medium Risk
+EH-14005,2017-12-28,7,1219.53,3,5,3,2,10,Loyal Customers,0,Low Risk
+EH-14125,2017-07-31,10,3082.653,153,2,5,4,11,Loyal Customers,2,Medium Risk
+EH-14185,2017-09-16,6,923.884,106,2,3,1,6,At Risk,0,Medium Risk
+EJ-13720,2017-03-03,4,2162.174,303,1,1,3,5,At Risk,1,Medium Risk
+EJ-14155,2017-11-03,5,2656.691,58,3,2,3,8,Potential Loyalists,0,Low Risk
+EK-13795,2017-11-16,4,1303.4779999999998,45,4,1,2,7,Potential Loyalists,0,Low Risk
+EL-13735,2017-10-14,2,124.28,78,3,1,1,5,At Risk,0,Medium Risk
+EM-13810,2017-08-20,5,2567.01,133,2,2,3,7,Potential Loyalists,0,Medium Risk
+EM-13825,2017-11-05,8,2339.598,56,3,4,3,10,Loyal Customers,0,Low Risk
+EM-13960,2017-08-01,5,933.704,152,2,2,1,5,At Risk,0,Medium Risk
+EM-14065,2017-11-13,4,228.99,48,4,1,1,6,At Risk,0,Low Risk
+EM-14095,2017-09-08,4,1041.042,114,2,1,2,5,At Risk,0,Medium Risk
+EM-14140,2017-11-12,6,4588.436,49,4,3,5,12,Loyal Customers,0,Low Risk
+EM-14200,2017-07-25,3,366.822,159,2,1,1,4,Lost Customers,0,Medium Risk
+EN-13780,2017-03-18,4,2199.366,288,1,1,3,5,At Risk,0,Medium Risk
+EP-13915,2017-12-18,17,5478.0608,13,5,5,5,15,Champions,2,Low Risk
+ER-13855,2016-11-04,3,1245.788,422,1,1,2,4,Lost Customers,1,Medium Risk
+ES-14020,2017-11-20,5,3510.458,41,4,2,4,10,Loyal Customers,0,Low Risk
+ES-14080,2017-12-02,9,4657.924,29,4,5,5,14,Champions,2,Low Risk
+FA-14230,2017-09-24,7,2984.054,98,3,3,4,10,Loyal Customers,0,Medium Risk
+FC-14245,2017-10-21,7,3418.7419999999997,71,3,3,4,10,Loyal Customers,0,Low Risk
+FC-14335,2017-06-29,7,3889.366,185,2,3,4,9,Potential Loyalists,2,Medium Risk
+FG-14260,2017-11-26,7,1383.144,35,4,3,2,9,Potential Loyalists,0,Low Risk
+FH-14275,2017-11-23,10,4256.272,38,4,5,4,13,Champions,2,Low Risk
+FH-14350,2017-06-01,4,2271.284,213,2,1,3,6,At Risk,0,Medium Risk
+FH-14365,2017-12-25,8,6987.196000000001,6,5,4,5,14,Champions,2,Low Risk
+FM-14215,2017-12-23,10,2456.638,8,5,5,3,13,Champions,2,Low Risk
+FM-14290,2017-11-24,9,3736.1980000000003,37,4,5,4,13,Champions,2,Low Risk
+FM-14380,2017-08-07,9,2523.266,146,2,5,3,10,Loyal Customers,2,Medium Risk
+FO-14305,2017-11-22,10,2678.438,39,4,5,3,12,Loyal Customers,2,Low Risk
+FP-14320,2017-12-07,8,4046.746,24,5,4,4,13,Champions,2,Low Risk
+FW-14395,2017-01-02,3,79.75,363,1,1,1,3,Lost Customers,1,Medium Risk
+GA-14515,2017-08-03,8,3919.7760000000003,150,2,4,4,10,Loyal Customers,2,Medium Risk
+GA-14725,2017-12-25,11,1398.382,6,5,5,2,12,Loyal Customers,2,Low Risk
+GB-14530,2017-10-29,11,1568.44,63,3,5,2,10,Loyal Customers,2,Low Risk
+GB-14575,2017-12-17,5,4716.2880000000005,14,5,2,5,12,Loyal Customers,0,Low Risk
+GD-14590,2017-12-25,4,1888.07,6,5,1,3,9,Potential Loyalists,0,Low Risk
+GG-14650,2017-11-17,9,2224.0,44,4,5,3,12,Loyal Customers,2,Low Risk
+GH-14410,2017-10-16,9,2819.467,76,3,5,4,12,Loyal Customers,2,Low Risk
+GH-14425,2017-11-10,4,4172.8460000000005,51,4,1,4,9,Potential Loyalists,0,Low Risk
+GH-14485,2016-12-08,2,1361.244,388,1,1,2,4,Lost Customers,1,High Risk
+GH-14665,2017-12-28,2,146.9408,3,5,1,1,7,Potential Loyalists,0,Medium Risk
+GK-14620,2017-09-09,9,6497.27,113,2,5,5,12,Loyal Customers,2,Medium Risk
+GM-14440,2017-10-08,7,3582.82,84,3,3,4,10,Loyal Customers,2,Low Risk
+GM-14455,2017-12-14,6,3078.624,17,5,3,4,12,Loyal Customers,0,Low Risk
+GM-14500,2017-09-15,10,1255.682,107,2,5,2,9,Potential Loyalists,2,Medium Risk
+GM-14680,2017-07-31,6,3163.628,153,2,3,4,9,Potential Loyalists,0,Medium Risk
+GM-14695,2017-09-04,3,6049.966,118,2,1,5,8,Potential Loyalists,0,Medium Risk
+GP-14740,2015-11-26,2,236.53,766,1,1,1,3,Lost Customers,1,High Risk
+GR-14560,2014-11-21,2,1284.38,1136,1,1,2,4,Lost Customers,1,High Risk
+GT-14635,2017-11-04,3,9351.212,57,3,1,5,9,Potential Loyalists,2,Medium Risk
+GT-14710,2017-11-24,11,11820.12,37,4,5,5,14,Champions,2,Low Risk
+GT-14755,2017-11-26,4,226.43599999999998,35,4,1,1,6,At Risk,0,Low Risk
+GW-14605,2017-12-02,7,2189.0190000000002,29,4,3,3,10,Loyal Customers,0,Low Risk
+GZ-14470,2017-12-23,9,4355.15,8,5,5,5,15,Champions,2,Low Risk
+GZ-14545,2017-07-26,4,2454.622,158,2,1,3,6,At Risk,0,Medium Risk
+HA-14905,2017-10-22,7,2163.2999999999997,70,3,3,3,9,Potential Loyalists,0,Low Risk
+HA-14920,2017-12-10,8,2584.158,21,5,4,3,12,Loyal Customers,2,Low Risk
+HD-14785,2015-11-22,3,251.36,770,1,1,1,3,Lost Customers,1,Medium Risk
+HE-14800,2017-12-18,4,883.532,13,5,1,1,7,Potential Loyalists,0,Low Risk
+HF-14995,2017-12-09,7,2533.164,22,5,4,3,12,Loyal Customers,0,Low Risk
+HG-14845,2017-11-06,5,785.6279999999999,55,3,2,1,6,At Risk,0,Low Risk
+HG-14965,2017-12-07,12,3247.642,24,5,5,4,14,Champions,2,Low Risk
+HG-15025,2017-12-24,7,3690.284,7,5,4,4,13,Champions,2,Low Risk
+HH-15010,2017-10-19,2,218.668,73,3,1,1,5,At Risk,0,Medium Risk
+HJ-14875,2017-08-26,5,358.1,127,2,2,1,5,At Risk,0,Medium Risk
+HK-14890,2017-08-01,8,4877.784,152,2,4,5,11,Loyal Customers,2,Medium Risk
+HL-15040,2017-11-17,6,12873.297999999999,44,4,3,5,12,Loyal Customers,2,Low Risk
+HM-14860,2017-12-28,10,8236.764799999999,3,5,5,5,15,Champions,2,Low Risk
+HM-14980,2017-04-27,4,736.2760000000001,248,1,1,1,3,Lost Customers,0,Medium Risk
+HP-14815,2017-11-30,7,1990.314,31,4,4,3,11,Loyal Customers,0,Low Risk
+HR-14770,2017-12-17,5,1299.288,14,5,2,2,9,Potential Loyalists,0,Low Risk
+HR-14830,2017-07-24,7,5248.787,160,2,4,5,11,Loyal Customers,2,Medium Risk
+HW-14935,2017-09-04,8,9300.253999999999,118,2,4,5,11,Loyal Customers,2,Medium Risk
+HZ-14950,2017-11-25,5,886.52,36,4,2,1,7,Potential Loyalists,0,Low Risk
+IG-15085,2017-10-20,4,744.574,72,3,1,1,5,At Risk,0,Low Risk
+IL-15100,2017-08-10,7,5040.736,143,2,4,5,11,Loyal Customers,2,Medium Risk
+IM-15055,2016-11-16,3,2872.63,410,1,1,4,6,At Risk,1,Medium Risk
+IM-15070,2016-12-05,7,4930.474,391,1,4,5,10,Loyal Customers,2,Medium Risk
+JA-15970,2017-09-29,8,6491.026000000001,93,3,4,5,12,Loyal Customers,2,Medium Risk
+JB-15400,2017-12-23,10,1791.605,8,5,5,3,13,Champions,2,Low Risk
+JB-15925,2015-12-24,3,900.552,738,1,1,1,3,Lost Customers,1,Medium Risk
+JB-16000,2017-11-17,7,644.1188,44,4,4,1,9,Potential Loyalists,0,Low Risk
+JB-16045,2017-12-23,5,2518.1150000000002,8,5,2,3,10,Loyal Customers,0,Low Risk
+JC-15340,2017-09-07,4,71.263,115,2,1,1,4,Lost Customers,0,Medium Risk
+JC-15385,2017-07-08,1,1058.108,176,2,1,2,5,At Risk,0,Medium Risk
+JC-15775,2017-07-25,9,2772.055,159,2,5,4,11,Loyal Customers,2,Medium Risk
+JC-16105,2017-11-03,5,858.576,58,3,2,1,6,At Risk,0,Low Risk
+JD-15790,2017-09-04,5,2152.352,118,2,2,3,7,Potential Loyalists,0,Medium Risk
+JD-15895,2016-12-01,11,7610.864,395,1,5,5,11,Loyal Customers,2,Medium Risk
+JD-16015,2017-09-09,6,385.43,113,2,3,1,6,At Risk,0,Medium Risk
+JD-16060,2017-03-05,3,695.442,301,1,1,1,3,Lost Customers,1,Medium Risk
+JD-16150,2017-11-19,8,8828.0305,42,4,4,5,13,Champions,2,Low Risk
+JE-15475,2017-06-20,6,1388.682,194,2,3,2,7,Potential Loyalists,0,Medium Risk
+JE-15610,2017-11-12,7,7754.976,49,4,4,5,13,Champions,2,Low Risk
+JE-15715,2017-11-14,10,8697.842999999999,47,4,5,5,14,Champions,2,Low Risk
+JE-15745,2017-11-09,13,6760.815,52,4,5,5,14,Champions,2,Low Risk
+JE-16165,2017-12-10,3,2697.248,21,5,1,3,9,Potential Loyalists,0,Medium Risk
+JF-15190,2017-10-26,7,2279.5860000000002,66,3,4,3,10,Loyal Customers,0,Low Risk
+JF-15295,2017-05-19,5,955.124,226,1,2,1,4,Lost Customers,0,Medium Risk
+JF-15355,2017-09-16,6,1911.844,106,2,3,3,8,Potential Loyalists,0,Medium Risk
+JF-15415,2017-12-28,6,2371.4480000000003,3,5,3,3,11,Loyal Customers,0,Low Risk
+JF-15490,2017-08-31,11,1082.918,122,2,5,2,9,Potential Loyalists,2,Medium Risk
+JF-15565,2017-11-06,8,4198.332,55,3,4,4,11,Loyal Customers,2,Low Risk
+JG-15115,2015-12-03,3,2358.676,759,1,1,3,5,At Risk,1,Medium Risk
+JG-15160,2017-12-29,11,6366.392,2,5,5,5,15,Champions,2,Low Risk
+JG-15310,2017-12-28,6,2240.58,3,5,3,3,11,Loyal Customers,0,Low Risk
+JG-15805,2017-05-21,6,1507.018,224,2,3,2,7,Potential Loyalists,0,Medium Risk
+JH-15430,2017-12-25,4,309.281,6,5,1,1,7,Potential Loyalists,0,Low Risk
+JH-15820,2017-07-09,6,528.91,175,2,3,1,6,At Risk,0,Medium Risk
+JH-15910,2017-11-19,7,959.4770000000001,42,4,4,1,9,Potential Loyalists,0,Low Risk
+JH-15985,2017-12-01,6,7954.9980000000005,30,4,3,5,12,Loyal Customers,2,Low Risk
+JH-16180,2016-11-21,4,2256.3940000000002,405,1,1,3,5,At Risk,1,Medium Risk
+JJ-15445,2016-09-03,5,709.178,484,1,2,1,4,Lost Customers,1,Medium Risk
+JJ-15760,2015-12-08,2,195.0,754,1,1,1,3,Lost Customers,1,High Risk
+JK-15205,2017-10-30,5,4427.142,62,3,2,5,10,Loyal Customers,0,Low Risk
+JK-15325,2017-03-18,3,383.812,288,1,1,1,3,Lost Customers,1,Medium Risk
+JK-15370,2017-11-16,8,2709.632,45,4,4,3,11,Loyal Customers,2,Low Risk
+JK-15625,2017-10-30,7,3760.0280000000002,62,3,4,4,11,Loyal Customers,2,Low Risk
+JK-15640,2017-07-03,9,4760.434,181,2,5,5,12,Loyal Customers,2,Medium Risk
+JK-15730,2017-10-07,10,4867.2,85,3,5,5,13,Champions,2,Low Risk
+JK-16090,2017-12-02,3,3747.668,29,4,1,4,9,Potential Loyalists,0,Medium Risk
+JK-16120,2017-09-04,10,2932.484,118,2,5,4,11,Loyal Customers,2,Medium Risk
+JL-15130,2017-12-22,6,1214.956,9,5,3,2,10,Loyal Customers,0,Low Risk
+JL-15175,2017-12-24,5,1571.523,7,5,2,2,9,Potential Loyalists,0,Low Risk
+JL-15235,2017-09-02,5,2203.7,120,2,2,3,7,Potential Loyalists,0,Medium Risk
+JL-15505,2017-11-11,6,3173.874,50,4,3,4,11,Loyal Customers,0,Low Risk
+JL-15835,2017-12-09,11,9799.923,22,5,5,5,15,Champions,2,Low Risk
+JL-15850,2016-04-25,6,2725.256,615,1,3,3,7,Potential Loyalists,1,Medium Risk
+JM-15250,2017-11-23,6,3159.1220000000003,38,4,3,4,11,Loyal Customers,0,Low Risk
+JM-15265,2017-11-23,5,1804.146,38,4,2,3,9,Potential Loyalists,0,Low Risk
+JM-15535,2017-09-19,7,1733.443,103,3,4,2,9,Potential Loyalists,0,Medium Risk
+JM-15580,2017-12-30,5,303.948,1,5,2,1,8,Potential Loyalists,0,Low Risk
+JM-15655,2017-12-22,5,864.947,9,5,2,1,8,Potential Loyalists,0,Low Risk
+JM-15865,2017-09-12,7,7625.076,110,2,4,5,11,Loyal Customers,2,Medium Risk
+JM-16195,2017-11-03,10,2833.926,58,3,5,4,12,Loyal Customers,2,Low Risk
+JO-15145,2017-11-03,9,3254.949,58,3,5,4,12,Loyal Customers,2,Low Risk
+JO-15280,2017-09-29,6,1934.272,93,3,3,3,9,Potential Loyalists,0,Medium Risk
+JO-15550,2017-05-29,5,1090.838,216,2,2,2,6,At Risk,0,Medium Risk
+JP-15460,2017-11-23,7,1669.135,38,4,4,2,10,Loyal Customers,0,Low Risk
+JP-15520,2017-12-22,7,3635.594,9,5,4,4,13,Champions,2,Low Risk
+JP-16135,2017-09-19,9,1707.71,103,3,5,2,10,Loyal Customers,2,Medium Risk
+JR-15670,2016-05-16,2,1156.658,594,1,1,2,4,Lost Customers,1,High Risk
+JR-15700,2017-10-23,1,863.88,69,3,1,1,5,At Risk,0,Medium Risk
+JR-16210,2017-11-27,5,2201.686,34,4,2,3,9,Potential Loyalists,0,Low Risk
+JS-15595,2017-09-02,4,1417.654,120,2,1,2,5,At Risk,0,Medium Risk
+JS-15685,2017-11-18,4,1131.0639999999999,43,4,1,2,7,Potential Loyalists,0,Low Risk
+JS-15880,2016-07-14,5,3868.02,535,1,2,4,7,Potential Loyalists,1,Medium Risk
+JS-15940,2016-09-23,5,469.169,464,1,2,1,4,Lost Customers,1,Medium Risk
+JS-16030,2017-12-02,6,2516.494,29,4,3,3,10,Loyal Customers,0,Low Risk
+JW-15220,2017-11-18,6,7721.713999999999,43,4,3,5,12,Loyal Customers,2,Low Risk
+JW-15955,2017-12-25,7,1244.086,6,5,4,2,11,Loyal Customers,0,Low Risk
+JW-16075,2016-09-25,4,1428.7309999999998,462,1,1,2,4,Lost Customers,1,Medium Risk
+KA-16525,2017-11-24,7,1519.506,37,4,4,2,10,Loyal Customers,0,Low Risk
+KB-16240,2017-12-26,7,3152.615,5,5,4,4,13,Champions,0,Low Risk
+KB-16315,2017-03-09,9,1569.464,297,1,5,2,8,Potential Loyalists,2,Medium Risk
+KB-16405,2017-09-04,3,908.8209999999999,118,2,1,1,4,Lost Customers,0,Medium Risk
+KB-16585,2017-05-14,12,2744.742,231,1,5,3,9,Potential Loyalists,2,Medium Risk
+KB-16600,2017-12-29,7,983.9220000000001,2,5,4,2,11,Loyal Customers,0,Low Risk
+KC-16255,2016-11-18,6,2120.954,408,1,3,3,7,Potential Loyalists,1,Medium Risk
+KC-16540,2017-09-24,4,3908.262,98,3,1,4,8,Potential Loyalists,0,Medium Risk
+KC-16675,2017-11-03,4,1146.05,58,3,1,2,6,At Risk,0,Low Risk
+KD-16270,2016-09-02,5,8282.358,485,1,2,5,8,Potential Loyalists,1,Medium Risk
+KD-16345,2017-11-19,6,1888.964,42,4,3,3,10,Loyal Customers,0,Low Risk
+KD-16495,2017-09-09,12,8181.256,113,2,5,5,12,Loyal Customers,2,Medium Risk
+KD-16615,2017-03-16,5,2243.51,290,1,2,3,6,At Risk,0,Medium Risk
+KE-16420,2017-12-04,8,1686.7312,27,5,4,2,11,Loyal Customers,0,Low Risk
+KF-16285,2017-09-24,7,10604.266,98,3,4,5,12,Loyal Customers,2,Medium Risk
+KH-16330,2017-11-20,8,3312.864,41,4,4,4,12,Loyal Customers,2,Low Risk
+KH-16360,2017-12-29,6,3100.612,2,5,3,4,12,Loyal Customers,0,Low Risk
+KH-16510,2017-12-08,7,5952.859,23,5,4,5,14,Champions,2,Low Risk
+KH-16630,2017-11-02,9,3918.9660000000003,59,3,5,4,12,Loyal Customers,2,Low Risk
+KH-16690,2017-12-28,7,5990.799,3,5,4,5,14,Champions,2,Low Risk
+KL-16555,2017-12-14,8,5016.487999999999,17,5,4,5,14,Champions,2,Low Risk
+KL-16645,2017-11-13,12,14175.229000000001,48,4,5,5,14,Champions,2,Low Risk
+KM-16225,2017-12-16,6,2260.958,15,5,3,3,11,Loyal Customers,0,Low Risk
+KM-16375,2017-11-04,8,5620.186,57,3,4,5,12,Loyal Customers,2,Low Risk
+KM-16660,2017-12-15,5,453.53799999999995,16,5,2,1,8,Potential Loyalists,0,Low Risk
+KM-16720,2017-12-02,8,4909.472,29,4,4,5,13,Champions,2,Low Risk
+KN-16390,2017-12-11,9,2617.272,20,5,5,3,13,Champions,2,Low Risk
+KN-16450,2017-11-08,5,2171.962,53,4,2,3,9,Potential Loyalists,0,Low Risk
+KN-16705,2017-09-23,8,2280.58,99,3,4,3,10,Loyal Customers,0,Medium Risk
+KS-16300,2017-03-10,3,88.472,296,1,1,1,3,Lost Customers,1,Medium Risk
+KT-16465,2016-12-04,7,3057.1,392,1,4,4,9,Potential Loyalists,1,Medium Risk
+KT-16480,2017-09-21,10,4642.088400000001,101,3,5,5,13,Champions,2,Medium Risk
+KW-16435,2017-09-25,5,4416.5199999999995,97,3,2,5,10,Loyal Customers,0,Medium Risk
+KW-16570,2015-11-20,4,449.096,772,1,1,1,3,Lost Customers,1,Medium Risk
+LA-16780,2017-07-29,11,8673.222,155,2,5,5,12,Loyal Customers,2,Medium Risk
+LB-16735,2017-11-12,3,50.188,49,4,1,1,6,At Risk,0,Medium Risk
+LB-16795,2017-07-31,8,4985.676,153,2,4,5,11,Loyal Customers,2,Medium Risk
+LC-16870,2017-12-03,8,2580.7039999999997,28,4,4,3,11,Loyal Customers,2,Low Risk
+LC-16885,2017-12-14,12,7663.126,17,5,5,5,15,Champions,2,Low Risk
+LC-16930,2017-11-19,8,4492.946,42,4,4,5,13,Champions,2,Low Risk
+LC-16960,2016-10-20,4,3246.626,437,1,1,4,6,At Risk,1,Medium Risk
+LC-17050,2017-11-06,5,2095.064,55,3,2,3,8,Potential Loyalists,0,Low Risk
+LC-17140,2017-12-17,9,2633.582,14,5,5,3,13,Champions,2,Low Risk
+LD-16855,2016-06-26,1,5.304,553,1,1,1,3,Lost Customers,1,High Risk
+LD-17005,2016-11-11,4,1961.934,415,1,1,3,5,At Risk,1,Medium Risk
+LE-16810,2017-12-09,6,1469.45,22,5,3,2,10,Loyal Customers,0,Low Risk
+LF-17185,2017-12-08,7,3930.5089999999996,23,5,4,4,13,Champions,2,Low Risk
+LH-16750,2017-08-01,3,287.426,152,2,1,1,4,Lost Customers,0,Medium Risk
+LH-16900,2017-12-09,9,2295.332,22,5,5,3,13,Champions,2,Low Risk
+LH-17020,2017-05-05,4,318.23900000000003,240,1,1,1,3,Lost Customers,0,Medium Risk
+LH-17155,2016-12-10,9,1739.6889999999999,386,1,5,3,9,Potential Loyalists,2,Medium Risk
+LL-16840,2017-04-25,6,2741.204,250,1,3,3,7,Potential Loyalists,0,Medium Risk
+LM-17065,2016-12-04,5,1346.774,392,1,2,2,5,At Risk,1,Medium Risk
+LO-17170,2017-12-28,5,644.35,3,5,2,1,8,Potential Loyalists,0,Low Risk
+LP-17080,2017-11-20,4,756.606,41,4,1,1,6,At Risk,0,Low Risk
+LP-17095,2017-12-21,7,3653.3990000000003,10,5,4,4,13,Champions,2,Low Risk
+LR-16915,2017-12-04,6,5142.892,27,5,3,5,13,Champions,2,Low Risk
+LR-17035,2017-08-20,5,1879.306,133,2,2,3,7,Potential Loyalists,0,Medium Risk
+LS-16945,2017-07-05,6,2845.2700000000004,179,2,3,4,9,Potential Loyalists,0,Medium Risk
+LS-16975,2017-12-10,9,2988.674,21,5,5,4,14,Champions,2,Low Risk
+LS-17200,2017-09-25,6,1010.2560000000001,97,3,3,2,8,Potential Loyalists,0,Medium Risk
+LS-17230,2015-11-14,3,368.88,778,1,1,1,3,Lost Customers,1,Medium Risk
+LS-17245,2017-11-26,6,1008.136,35,4,3,2,9,Potential Loyalists,0,Low Risk
+LT-16765,2017-12-04,3,329.876,27,5,1,1,7,Potential Loyalists,0,Medium Risk
+LT-17110,2017-11-26,8,2936.252,35,4,4,4,12,Loyal Customers,2,Low Risk
+LW-16825,2017-10-03,5,2238.061,89,3,2,3,8,Potential Loyalists,0,Low Risk
+LW-16990,2017-11-27,6,3230.308,34,4,3,4,11,Loyal Customers,0,Low Risk
+LW-17125,2017-06-08,3,1259.04,206,2,1,2,5,At Risk,0,Medium Risk
+LW-17215,2017-12-09,7,5420.514,22,5,4,5,14,Champions,2,Low Risk
+MA-17560,2017-10-27,11,4299.161,65,3,5,5,13,Champions,2,Low Risk
+MA-17995,2017-06-27,6,2453.284,187,2,3,3,8,Potential Loyalists,0,Medium Risk
+MB-17305,2017-11-12,10,1548.702,49,4,5,2,11,Loyal Customers,2,Low Risk
+MB-18085,2017-11-16,7,1428.231,45,4,4,2,10,Loyal Customers,0,Low Risk
+MC-17275,2017-10-15,8,2725.982,77,3,4,3,10,Loyal Customers,2,Low Risk
+MC-17425,2016-11-26,5,4432.138,400,1,2,5,8,Potential Loyalists,1,Medium Risk
+MC-17575,2017-12-03,8,1303.893,28,4,4,2,10,Loyal Customers,0,Low Risk
+MC-17590,2017-11-09,6,2426.067,52,4,3,3,10,Loyal Customers,0,Low Risk
+MC-17605,2017-09-09,8,2258.192,113,2,4,3,9,Potential Loyalists,0,Medium Risk
+MC-17635,2017-06-24,4,795.154,190,2,1,1,4,Lost Customers,0,Medium Risk
+MC-17845,2017-12-29,7,3805.714,2,5,4,4,13,Champions,2,Low Risk
+MC-18100,2017-11-19,10,2218.98,42,4,5,3,12,Loyal Customers,2,Low Risk
+MC-18130,2016-12-26,5,1581.998,370,1,2,2,5,At Risk,1,Medium Risk
+MD-17350,2017-09-04,7,3766.382,118,2,4,4,10,Loyal Customers,2,Medium Risk
+MD-17860,2017-11-24,5,1204.91,37,4,2,2,8,Potential Loyalists,0,Low Risk
+ME-17320,2017-11-18,10,10663.728000000001,43,4,5,5,14,Champions,2,Low Risk
+ME-17725,2017-12-02,8,1908.4532,29,4,4,3,11,Loyal Customers,0,Low Risk
+ME-18010,2017-09-29,4,1256.944,93,3,2,2,7,Potential Loyalists,0,Medium Risk
+MF-17665,2016-11-04,5,937.039,422,1,2,1,4,Lost Customers,1,Medium Risk
+MF-18250,2017-12-23,5,1758.3,8,5,2,3,10,Loyal Customers,0,Low Risk
+MG-17650,2017-12-01,7,3785.276,30,4,4,4,12,Loyal Customers,2,Low Risk
+MG-17680,2017-09-29,4,2350.188,93,3,2,3,8,Potential Loyalists,0,Medium Risk
+MG-17695,2016-06-23,3,1342.282,556,1,1,2,4,Lost Customers,1,Medium Risk
+MG-17875,2017-09-05,5,1242.833,117,2,2,2,6,At Risk,0,Medium Risk
+MG-17890,2017-09-22,9,776.384,100,3,5,1,9,Potential Loyalists,0,Medium Risk
+MG-18145,2017-10-07,4,3061.543,85,3,2,4,9,Potential Loyalists,0,Low Risk
+MG-18205,2017-04-10,1,16.739,265,1,1,1,3,Lost Customers,1,High Risk
+MH-17290,2017-09-02,6,2394.0249999999996,120,2,3,3,8,Potential Loyalists,0,Medium Risk
+MH-17440,2016-12-19,4,400.016,377,1,2,1,4,Lost Customers,1,Medium Risk
+MH-17455,2017-10-06,8,2456.1820000000002,86,3,4,3,10,Loyal Customers,0,Low Risk
+MH-17620,2017-07-28,4,1252.8000000000002,156,2,2,2,6,At Risk,0,Medium Risk
+MH-17785,2017-09-23,7,2203.7780000000002,99,3,4,3,10,Loyal Customers,0,Medium Risk
+MH-18025,2017-11-11,5,2984.948,50,4,2,4,10,Loyal Customers,0,Low Risk
+MH-18115,2017-12-25,9,5503.093,6,5,5,5,15,Champions,2,Low Risk
+MJ-17740,2017-12-08,7,6320.746,23,5,4,5,14,Champions,2,Low Risk
+MK-17905,2017-12-02,8,2302.368,29,4,4,3,11,Loyal Customers,0,Low Risk
+MK-18160,2017-05-04,4,1031.602,241,1,2,2,5,At Risk,0,Medium Risk
+ML-17395,2017-10-22,9,2722.843,70,3,5,3,11,Loyal Customers,2,Low Risk
+ML-17410,2017-11-06,6,2921.5,55,3,3,4,10,Loyal Customers,0,Low Risk
+ML-17755,2017-12-01,7,2071.9139999999998,30,4,4,3,11,Loyal Customers,0,Low Risk
+ML-18040,2017-10-12,3,742.082,80,3,1,1,5,At Risk,0,Medium Risk
+ML-18265,2017-09-21,2,162.232,101,3,1,1,5,At Risk,0,Medium Risk
+MM-17260,2017-07-15,4,1314.0230000000001,169,2,2,2,6,At Risk,0,Medium Risk
+MM-17920,2017-12-23,11,3794.08,8,5,5,4,14,Champions,2,Low Risk
+MM-18055,2017-10-30,8,2749.881,62,3,4,3,10,Loyal Customers,2,Low Risk
+MM-18280,2017-10-06,9,775.414,86,3,5,1,9,Potential Loyalists,0,Low Risk
+MN-17935,2017-11-26,6,2477.946,35,4,3,3,10,Loyal Customers,0,Low Risk
+MO-17500,2017-10-19,4,922.4870000000001,73,3,2,1,6,At Risk,0,Low Risk
+MO-17800,2017-09-17,8,1687.027,105,2,4,2,8,Potential Loyalists,0,Medium Risk
+MO-17950,2017-07-03,2,154.288,181,2,1,1,4,Lost Customers,0,High Risk
+MP-17470,2016-01-11,7,3206.132,720,1,4,4,9,Potential Loyalists,1,Medium Risk
+MP-17965,2017-10-19,9,3983.642,73,3,5,4,12,Loyal Customers,2,Low Risk
+MP-18175,2017-12-14,9,5087.92,17,5,5,5,15,Champions,2,Low Risk
+MR-17545,2017-08-27,4,639.178,126,2,2,1,5,At Risk,0,Medium Risk
+MS-17365,2017-04-01,10,7443.6900000000005,274,1,5,5,11,Loyal Customers,2,Medium Risk
+MS-17530,2016-10-22,4,475.65599999999995,435,1,2,1,4,Lost Customers,1,Medium Risk
+MS-17710,2016-11-12,6,1613.402,414,1,3,2,6,At Risk,1,Medium Risk
+MS-17770,2017-08-31,9,3144.678,122,2,5,4,11,Loyal Customers,2,Medium Risk
+MS-17830,2016-10-04,4,370.348,453,1,2,1,4,Lost Customers,1,Medium Risk
+MS-17980,2017-12-04,6,855.116,27,5,3,1,9,Potential Loyalists,0,Low Risk
+MT-17815,2017-11-11,6,2890.1389999999997,50,4,3,4,11,Loyal Customers,0,Low Risk
+MT-18070,2017-06-10,4,1319.4498,204,2,2,2,6,At Risk,0,Medium Risk
+MV-17485,2017-12-03,9,1560.05,28,4,5,2,11,Loyal Customers,2,Low Risk
+MV-18190,2017-12-11,7,1734.5739999999998,20,5,4,2,11,Loyal Customers,0,Low Risk
+MW-18220,2017-12-13,7,5341.9,18,5,4,5,14,Champions,2,Low Risk
+MW-18235,2017-11-16,2,5253.876,45,4,1,5,10,Loyal Customers,0,Medium Risk
+MY-17380,2017-12-01,7,2254.285,30,4,4,3,11,Loyal Customers,0,Low Risk
+MY-18295,2017-10-20,11,4152.696,72,3,5,4,12,Loyal Customers,2,Low Risk
+MZ-17335,2017-11-30,4,593.606,31,4,2,1,7,Potential Loyalists,0,Low Risk
+MZ-17515,2017-03-23,6,2564.906,283,1,3,3,7,Potential Loyalists,0,Medium Risk
+NB-18580,2014-10-22,2,273.87199999999996,1166,1,1,1,3,Lost Customers,1,High Risk
+NB-18655,2017-12-11,9,1972.5990000000002,20,5,5,3,13,Champions,2,Low Risk
+NC-18340,2017-05-20,5,2461.404,225,2,2,3,7,Potential Loyalists,0,Medium Risk
+NC-18415,2017-11-19,6,2218.9900000000002,42,4,3,3,10,Loyal Customers,0,Low Risk
+NC-18535,2017-12-24,7,8241.739,7,5,4,5,14,Champions,2,Low Risk
+NC-18625,2017-06-09,5,1821.742,205,2,2,3,7,Potential Loyalists,0,Medium Risk
+ND-18370,2017-12-03,9,4326.139,28,4,5,5,14,Champions,2,Low Risk
+ND-18460,2017-06-30,6,2893.455,184,2,3,4,9,Potential Loyalists,0,Medium Risk
+NF-18385,2017-10-12,7,8322.826000000001,80,3,4,5,12,Loyal Customers,2,Low Risk
+NF-18475,2016-07-23,4,377.16200000000003,526,1,2,1,4,Lost Customers,1,Medium Risk
+NF-18595,2017-09-07,7,2031.472,115,2,4,3,9,Potential Loyalists,0,Medium Risk
+NG-18355,2017-11-12,5,1869.58,49,4,2,3,9,Potential Loyalists,0,Low Risk
+NG-18430,2017-11-12,5,1395.938,49,4,2,2,8,Potential Loyalists,0,Low Risk
+NH-18610,2017-06-24,7,2673.29,190,2,4,3,9,Potential Loyalists,0,Medium Risk
+NK-18490,2017-10-21,7,572.048,71,3,4,1,8,Potential Loyalists,0,Low Risk
+NL-18310,2017-11-02,4,1418.0900000000001,59,3,2,2,7,Potential Loyalists,0,Low Risk
+NM-18445,2017-07-23,7,6459.344,161,2,4,5,11,Loyal Customers,2,Medium Risk
+NM-18520,2017-04-30,10,2161.979,245,1,5,3,9,Potential Loyalists,2,Medium Risk
+NP-18325,2017-12-05,6,5529.62,26,5,3,5,13,Champions,2,Low Risk
+NP-18670,2017-11-02,5,3908.402,59,3,2,4,9,Potential Loyalists,0,Low Risk
+NP-18685,2016-11-19,6,1228.698,407,1,3,2,6,At Risk,1,Medium Risk
+NP-18700,2017-08-14,7,7903.182500000001,139,2,4,5,11,Loyal Customers,2,Medium Risk
+NR-18550,2017-06-03,5,2367.277,211,2,2,3,7,Potential Loyalists,0,Medium Risk
+NS-18505,2017-12-24,4,2575.8630000000003,7,5,2,3,10,Loyal Customers,0,Low Risk
+NS-18640,2017-07-09,13,2964.823,175,2,5,4,11,Loyal Customers,2,Medium Risk
+NW-18400,2017-07-11,7,7234.014,173,2,4,5,11,Loyal Customers,2,Medium Risk
+NZ-18565,2017-10-06,9,2488.31,86,3,5,3,11,Loyal Customers,2,Low Risk
+ON-18715,2016-11-15,9,1567.52,411,1,5,2,8,Potential Loyalists,1,Medium Risk
+OT-18730,2017-10-26,5,3818.624,66,3,2,4,9,Potential Loyalists,0,Low Risk
+PA-19060,2017-09-18,6,729.408,104,3,3,1,7,Potential Loyalists,0,Medium Risk
+PB-18805,2017-12-05,3,740.356,26,5,1,1,7,Potential Loyalists,0,Medium Risk
+PB-19105,2017-11-03,4,688.324,58,3,2,1,6,At Risk,0,Low Risk
+PB-19150,2017-09-24,8,1456.95,98,3,4,2,9,Potential Loyalists,0,Medium Risk
+PB-19210,2016-02-11,2,132.738,689,1,1,1,3,Lost Customers,1,High Risk
+PC-18745,2017-12-28,4,1832.064,3,5,2,3,10,Loyal Customers,0,Low Risk
+PC-19000,2015-08-01,2,1061.488,883,1,1,2,4,Lost Customers,1,High Risk
+PF-19120,2015-09-17,4,9062.864,836,1,2,5,8,Potential Loyalists,1,Medium Risk
+PF-19165,2017-06-17,6,2770.0,197,2,3,4,9,Potential Loyalists,0,Medium Risk
+PF-19225,2017-09-07,5,2206.1279999999997,115,2,2,3,7,Potential Loyalists,0,Medium Risk
+PG-18820,2017-11-24,13,3086.907,37,4,5,4,13,Champions,2,Low Risk
+PG-18895,2017-11-03,9,1987.164,58,3,5,3,11,Loyal Customers,2,Low Risk
+PH-18790,2017-10-21,1,729.648,71,3,1,1,5,At Risk,0,Medium Risk
+PJ-18835,2017-11-21,8,1220.0900000000001,40,4,4,2,10,Loyal Customers,0,Low Risk
+PJ-19015,2017-08-18,7,1824.2340000000002,135,2,4,3,9,Potential Loyalists,0,Medium Risk
+PK-18910,2016-09-03,2,1441.152,484,1,1,2,4,Lost Customers,1,High Risk
+PK-19075,2017-12-21,12,8646.934000000001,10,5,5,5,15,Champions,2,Low Risk
+PL-18925,2017-12-15,5,239.481,16,5,2,1,8,Potential Loyalists,0,Low Risk
+PM-18940,2016-12-09,3,1405.402,387,1,1,2,4,Lost Customers,1,Medium Risk
+PM-19135,2017-11-09,4,4115.662,52,4,2,4,10,Loyal Customers,0,Low Risk
+PN-18775,2017-11-30,8,1467.152,31,4,4,2,10,Loyal Customers,0,Low Risk
+PO-18850,2017-12-26,11,7473.8282,5,5,5,5,15,Champions,2,Low Risk
+PO-18865,2017-12-30,7,2493.214,1,5,4,3,12,Loyal Customers,0,Low Risk
+PO-19180,2017-07-23,9,4893.043,161,2,5,5,12,Loyal Customers,2,Medium Risk
+PO-19195,2017-10-05,5,1056.858,87,3,2,2,7,Potential Loyalists,0,Low Risk
+PP-18955,2017-09-24,10,7252.608,98,3,5,5,13,Champions,2,Medium Risk
+PR-18880,2017-11-24,5,1840.178,37,4,2,3,9,Potential Loyalists,0,Low Risk
+PS-18760,2017-09-14,6,2181.479,108,2,3,3,8,Potential Loyalists,0,Medium Risk
+PS-18970,2017-10-22,8,1278.6390000000001,70,3,4,2,9,Potential Loyalists,0,Low Risk
+PS-19045,2017-05-08,7,6843.634,237,1,4,5,10,Loyal Customers,2,Medium Risk
+PT-19090,2017-10-20,4,160.572,72,3,2,1,6,At Risk,0,Low Risk
+PV-18985,2017-10-02,5,2876.046,90,3,2,4,9,Potential Loyalists,0,Low Risk
+PW-19030,2017-11-14,10,3454.916,47,4,5,4,13,Champions,2,Low Risk
+PW-19240,2016-09-22,7,3922.415,465,1,4,4,9,Potential Loyalists,1,Medium Risk
+QJ-19255,2017-12-05,9,6108.338,26,5,5,5,15,Champions,2,Low Risk
+RA-19285,2017-12-25,9,2617.906,6,5,5,3,13,Champions,2,Low Risk
+RA-19885,2017-11-17,7,3832.3140000000003,44,4,4,4,12,Loyal Customers,2,Low Risk
+RA-19915,2017-12-18,9,4793.543,13,5,5,5,15,Champions,2,Low Risk
+RA-19945,2017-10-30,5,1686.9225000000001,62,3,2,2,7,Potential Loyalists,0,Low Risk
+RB-19330,2017-10-23,2,1008.196,69,3,1,2,6,At Risk,0,Medium Risk
+RB-19360,2017-09-25,6,15117.339,97,3,3,5,11,Loyal Customers,2,Medium Risk
+RB-19435,2017-12-11,8,2663.086,20,5,4,3,12,Loyal Customers,2,Low Risk
+RB-19465,2017-12-21,12,4715.466,10,5,5,5,15,Champions,2,Low Risk
+RB-19570,2017-12-05,5,528.5459999999999,26,5,2,1,8,Potential Loyalists,0,Low Risk
+RB-19645,2016-03-22,5,221.084,649,1,2,1,4,Lost Customers,1,Medium Risk
+RB-19705,2017-11-06,4,2067.45,55,3,2,3,8,Potential Loyalists,0,Low Risk
+RB-19795,2017-11-28,8,5633.316000000001,33,4,4,5,13,Champions,2,Low Risk
+RC-19825,2016-12-26,6,966.409,370,1,3,2,6,At Risk,1,Medium Risk
+RC-19960,2017-09-11,6,885.752,111,2,3,1,6,At Risk,0,Medium Risk
+RD-19480,2017-10-19,8,4272.93,73,3,4,4,11,Loyal Customers,2,Low Risk
+RD-19585,2017-07-03,10,2912.8940000000002,181,2,5,4,11,Loyal Customers,2,Medium Risk
+RD-19660,2017-09-07,5,2786.632,115,2,2,4,8,Potential Loyalists,0,Medium Risk
+RD-19720,2017-12-09,10,1419.737,22,5,5,2,12,Loyal Customers,2,Low Risk
+RD-19810,2017-12-16,8,1137.616,15,5,4,2,11,Loyal Customers,0,Low Risk
+RD-19900,2017-09-07,9,3133.924,115,2,5,4,11,Loyal Customers,2,Medium Risk
+RD-19930,2017-11-18,4,970.942,43,4,2,2,8,Potential Loyalists,0,Low Risk
+RE-19405,2014-12-29,1,48.36,1098,1,1,1,3,Lost Customers,1,High Risk
+RE-19450,2017-03-03,5,876.696,303,1,2,1,4,Lost Customers,0,Medium Risk
+RF-19345,2016-12-05,8,3309.15,391,1,4,4,9,Potential Loyalists,2,Medium Risk
+RF-19735,2017-10-02,7,2341.296,90,3,4,3,10,Loyal Customers,0,Low Risk
+RF-19840,2017-12-24,8,945.222,7,5,4,1,10,Loyal Customers,0,Low Risk
+RH-19495,2017-11-28,5,3621.376,33,4,2,4,10,Loyal Customers,0,Low Risk
+RH-19510,2016-09-19,6,6979.18,468,1,3,5,9,Potential Loyalists,1,Medium Risk
+RH-19555,2016-07-29,2,740.382,520,1,1,1,3,Lost Customers,1,High Risk
+RH-19600,2016-07-14,3,2085.74,535,1,1,3,5,At Risk,1,Medium Risk
+RK-19300,2017-09-02,3,1460.192,120,2,1,2,5,At Risk,0,Medium Risk
+RL-19615,2017-08-31,8,6234.91,122,2,4,5,11,Loyal Customers,2,Medium Risk
+RM-19375,2017-01-19,6,1453.474,346,1,3,2,6,At Risk,1,Medium Risk
+RM-19675,2017-12-24,5,5979.096,7,5,2,5,12,Loyal Customers,2,Low Risk
+RM-19750,2017-03-06,1,98.35,300,1,1,1,3,Lost Customers,1,High Risk
+RO-19780,2017-11-25,7,3815.478,36,4,4,4,12,Loyal Customers,2,Low Risk
+RP-19270,2016-08-21,4,954.6452,497,1,2,1,4,Lost Customers,1,Medium Risk
+RP-19390,2017-11-27,12,5153.084,34,4,5,5,14,Champions,2,Low Risk
+RP-19855,2017-12-02,8,2170.716,29,4,4,3,11,Loyal Customers,0,Low Risk
+RR-19315,2017-12-11,2,615.932,20,5,1,1,7,Potential Loyalists,0,Medium Risk
+RR-19525,2017-07-13,6,3302.2619999999997,171,2,3,4,9,Potential Loyalists,0,Medium Risk
+RS-19420,2017-10-15,5,3221.29,77,3,2,4,9,Potential Loyalists,0,Low Risk
+RS-19765,2017-11-24,8,4159.7699999999995,37,4,4,4,12,Loyal Customers,2,Low Risk
+RS-19870,2017-12-11,2,22.328,20,5,1,1,7,Potential Loyalists,0,Medium Risk
+RW-19540,2017-09-01,7,7397.401,121,2,4,5,11,Loyal Customers,2,Medium Risk
+RW-19630,2017-10-02,9,3279.7459999999996,90,3,5,4,12,Loyal Customers,2,Low Risk
+RW-19690,2017-10-12,5,3495.646,80,3,2,4,9,Potential Loyalists,0,Low Risk
+SA-20830,2017-10-28,10,4767.3415,64,3,5,5,13,Champions,2,Low Risk
+SB-20170,2017-06-12,3,1348.02,202,2,1,2,5,At Risk,0,Medium Risk
+SB-20185,2017-06-25,6,6410.996,189,2,3,5,10,Loyal Customers,2,Medium Risk
+SB-20290,2017-11-13,7,8057.890999999999,48,4,4,5,13,Champions,2,Low Risk
+SC-20020,2015-11-10,5,3362.9636,782,1,2,4,7,Potential Loyalists,1,Medium Risk
+SC-20050,2017-11-20,9,4624.572,41,4,5,5,14,Champions,2,Low Risk
+SC-20095,2017-01-15,9,14142.334,350,1,5,5,11,Loyal Customers,2,Medium Risk
+SC-20230,2017-08-03,4,4371.958,150,2,2,5,9,Potential Loyalists,0,Medium Risk
+SC-20260,2017-06-26,8,3729.793,188,2,4,4,10,Loyal Customers,2,Medium Risk
+SC-20305,2017-12-01,7,3979.065,30,4,4,4,12,Loyal Customers,2,Low Risk
+SC-20380,2017-11-30,9,5992.536,31,4,5,5,14,Champions,2,Low Risk
+SC-20440,2017-11-24,7,1874.998,37,4,4,3,11,Loyal Customers,0,Low Risk
+SC-20575,2017-09-29,5,902.7280000000001,93,3,2,1,6,At Risk,0,Medium Risk
+SC-20680,2017-08-26,6,1254.64,127,2,3,2,7,Potential Loyalists,0,Medium Risk
+SC-20695,2017-10-02,10,2576.408,90,3,5,3,11,Loyal Customers,2,Low Risk
+SC-20725,2017-06-26,11,5226.21,188,2,5,5,12,Loyal Customers,2,Medium Risk
+SC-20770,2017-11-19,7,4492.657,42,4,4,5,13,Champions,2,Low Risk
+SC-20800,2017-11-30,4,279.256,31,4,2,1,7,Potential Loyalists,0,Low Risk
+SC-20845,2017-08-21,2,280.632,132,2,1,1,4,Lost Customers,0,Medium Risk
+SD-20485,2017-06-13,9,6121.1140000000005,201,2,5,5,12,Loyal Customers,2,Medium Risk
+SE-20110,2017-12-21,11,12209.438,10,5,5,5,15,Champions,2,Low Risk
+SF-20065,2017-11-01,7,763.5459999999999,60,3,4,1,8,Potential Loyalists,0,Low Risk
+SF-20200,2017-11-01,9,3422.786,60,3,5,4,12,Loyal Customers,2,Low Risk
+SF-20965,2017-11-12,9,3336.5350000000003,49,4,5,4,13,Champions,2,Low Risk
+SG-20080,2017-12-22,3,3406.5809999999997,9,5,1,4,10,Loyal Customers,0,Medium Risk
+SG-20470,2017-06-30,8,1884.7980000000002,184,2,4,3,9,Potential Loyalists,0,Medium Risk
+SG-20605,2017-09-13,6,3124.8320000000003,109,2,3,4,9,Potential Loyalists,0,Medium Risk
+SG-20890,2017-05-18,3,47.946,227,1,1,1,3,Lost Customers,0,Medium Risk
+SH-19975,2017-12-01,13,3406.8395,30,4,5,4,13,Champions,2,Low Risk
+SH-20395,2017-12-07,10,2180.7180000000003,24,5,5,3,13,Champions,2,Low Risk
+SH-20635,2015-11-26,2,2096.392,766,1,1,3,5,At Risk,1,High Risk
+SJ-20125,2017-09-26,12,3949.656,96,3,5,4,12,Loyal Customers,2,Medium Risk
+SJ-20215,2017-12-01,6,1341.036,30,4,3,2,9,Potential Loyalists,0,Low Risk
+SJ-20500,2017-04-21,5,1318.7759999999998,254,1,2,2,5,At Risk,0,Medium Risk
+SK-19990,2017-12-22,3,883.4090000000001,9,5,1,1,7,Potential Loyalists,0,Medium Risk
+SL-20155,2017-10-21,7,3053.012,71,3,4,4,11,Loyal Customers,0,Low Risk
+SM-20005,2016-11-04,4,244.49399999999997,422,1,2,1,4,Lost Customers,1,Medium Risk
+SM-20320,2017-10-12,5,25043.05,80,3,2,5,10,Loyal Customers,2,Low Risk
+SM-20905,2016-05-03,1,1043.041,607,1,1,2,4,Lost Customers,1,High Risk
+SM-20950,2017-12-05,12,5563.392,26,5,5,5,15,Champions,2,Low Risk
+SN-20560,2017-09-10,6,1860.4180000000001,112,2,3,3,8,Potential Loyalists,0,Medium Risk
+SN-20710,2017-10-12,7,3127.9592,80,3,4,4,11,Loyal Customers,0,Low Risk
+SO-20335,2017-12-01,6,2602.5755,30,4,3,3,10,Loyal Customers,0,Low Risk
+SP-20545,2017-02-06,6,1306.086,328,1,3,2,6,At Risk,0,Medium Risk
+SP-20620,2017-11-13,9,5440.319,48,4,5,5,14,Champions,2,Low Risk
+SP-20650,2016-12-09,9,1872.4360000000001,387,1,5,3,9,Potential Loyalists,2,Medium Risk
+SP-20860,2017-10-12,10,4282.9400000000005,80,3,5,5,13,Champions,2,Low Risk
+SP-20920,2017-10-21,6,3990.6890000000003,71,3,3,4,10,Loyal Customers,0,Low Risk
+SR-20425,2017-12-22,5,3233.481,9,5,2,4,11,Loyal Customers,0,Low Risk
+SR-20740,2017-06-17,8,4345.886,197,2,4,5,11,Loyal Customers,2,Medium Risk
+SS-20140,2017-12-15,8,1324.028,16,5,4,2,11,Loyal Customers,0,Low Risk
+SS-20410,2017-09-11,6,3056.807,111,2,3,4,9,Potential Loyalists,0,Medium Risk
+SS-20515,2016-08-26,3,613.4000000000001,492,1,1,1,3,Lost Customers,1,Medium Risk
+SS-20590,2016-10-24,6,418.49,433,1,3,1,5,At Risk,1,Medium Risk
+SS-20875,2017-09-01,5,964.636,121,2,2,2,6,At Risk,0,Medium Risk
+ST-20530,2017-08-27,7,433.34,126,2,4,1,7,Potential Loyalists,0,Medium Risk
+SU-20665,2017-12-10,7,2595.364,21,5,4,3,12,Loyal Customers,0,Low Risk
+SV-20365,2017-09-20,10,11470.949999999999,102,3,5,5,13,Champions,2,Medium Risk
+SV-20785,2017-02-13,9,4105.305,321,1,5,4,10,Loyal Customers,2,Medium Risk
+SV-20815,2017-10-15,4,1271.09,77,3,2,2,7,Potential Loyalists,0,Low Risk
+SV-20935,2017-12-28,8,1903.491,3,5,4,3,12,Loyal Customers,0,Low Risk
+SW-20245,2017-10-10,7,1085.078,82,3,4,2,9,Potential Loyalists,0,Low Risk
+SW-20275,2017-11-30,6,1966.65,31,4,3,3,10,Loyal Customers,0,Low Risk
+SW-20350,2017-07-21,3,1019.044,163,2,1,2,5,At Risk,0,Medium Risk
+SW-20455,2017-07-21,7,2921.544,163,2,4,4,10,Loyal Customers,0,Medium Risk
+SW-20755,2016-07-14,2,758.696,535,1,1,1,3,Lost Customers,1,High Risk
+SZ-20035,2017-11-25,11,3625.329,36,4,5,4,13,Champions,2,Low Risk
+TA-21385,2017-10-22,4,14595.62,70,3,2,5,10,Loyal Customers,2,Low Risk
+TB-21055,2017-09-02,5,1467.881,120,2,2,2,6,At Risk,0,Medium Risk
+TB-21175,2017-11-02,4,3589.2960000000003,59,3,2,4,9,Potential Loyalists,0,Low Risk
+TB-21190,2017-11-11,4,816.1740000000001,50,4,2,1,7,Potential Loyalists,0,Low Risk
+TB-21250,2017-01-15,7,1602.376,350,1,4,2,7,Potential Loyalists,0,Medium Risk
+TB-21280,2016-05-26,6,2198.4500000000003,584,1,3,3,7,Potential Loyalists,1,Medium Risk
+TB-21355,2017-08-06,5,834.328,147,2,2,1,5,At Risk,0,Medium Risk
+TB-21400,2017-06-11,7,9133.99,203,2,4,5,11,Loyal Customers,2,Medium Risk
+TB-21520,2017-09-14,9,4737.486,108,2,5,5,12,Loyal Customers,2,Medium Risk
+TB-21595,2017-03-20,5,1387.559,286,1,2,2,5,At Risk,0,Medium Risk
+TB-21625,2017-11-30,9,2797.6679999999997,31,4,5,4,13,Champions,2,Low Risk
+TC-20980,2016-11-26,5,19052.218000000004,400,1,2,5,8,Potential Loyalists,2,Medium Risk
+TC-21145,2017-09-15,1,1038.26,107,2,1,2,5,At Risk,0,Medium Risk
+TC-21295,2017-12-03,8,4266.812,28,4,4,4,12,Loyal Customers,2,Low Risk
+TC-21475,2017-07-30,9,1244.9759999999999,154,2,5,2,9,Potential Loyalists,0,Medium Risk
+TC-21535,2017-12-26,7,742.558,5,5,4,1,10,Loyal Customers,0,Low Risk
+TD-20995,2017-11-23,9,1434.548,38,4,5,2,11,Loyal Customers,2,Low Risk
+TG-21310,2017-01-27,5,3058.372,338,1,3,4,8,Potential Loyalists,1,Medium Risk
+TG-21640,2017-09-07,4,2074.661,115,2,2,3,7,Potential Loyalists,0,Medium Risk
+TH-21100,2017-01-20,5,2422.824,345,1,3,3,7,Potential Loyalists,1,Medium Risk
+TH-21115,2017-11-02,4,2942.772,59,3,2,4,9,Potential Loyalists,0,Low Risk
+TH-21235,2017-09-04,8,1022.201,118,2,4,2,8,Potential Loyalists,0,Medium Risk
+TH-21550,2017-10-19,7,4234.096,73,3,4,4,11,Loyal Customers,2,Low Risk
+TM-21010,2017-09-18,8,2955.2259999999997,104,3,4,4,11,Loyal Customers,2,Medium Risk
+TM-21490,2017-08-22,3,1094.6779999999999,131,2,1,2,5,At Risk,0,Medium Risk
+TN-21040,2017-10-01,7,3130.221,91,3,4,4,11,Loyal Customers,0,Medium Risk
+TP-21130,2017-12-22,9,4454.056,9,5,5,5,15,Champions,2,Low Risk
+TP-21415,2017-09-17,5,5329.0048,105,2,3,5,10,Loyal Customers,0,Medium Risk
+TP-21565,2017-01-14,4,1936.6399999999999,351,1,2,3,6,At Risk,1,Medium Risk
+TR-21325,2017-06-20,5,675.942,194,2,3,1,6,At Risk,0,Medium Risk
+TS-21085,2017-01-07,2,4.833,358,1,1,1,3,Lost Customers,1,High Risk
+TS-21160,2016-08-13,6,2163.624,505,1,3,3,7,Potential Loyalists,1,Medium Risk
+TS-21205,2017-06-15,7,5371.09,199,2,4,5,11,Loyal Customers,2,Medium Risk
+TS-21340,2017-05-18,5,974.782,227,1,3,2,6,At Risk,0,Medium Risk
+TS-21370,2017-11-24,6,11891.751,37,4,3,5,12,Loyal Customers,2,Low Risk
+TS-21430,2017-07-11,5,2054.14,173,2,3,3,8,Potential Loyalists,0,Medium Risk
+TS-21505,2017-12-19,6,2243.274,12,5,3,3,11,Loyal Customers,0,Low Risk
+TS-21610,2017-11-05,7,2820.424,56,3,4,4,11,Loyal Customers,0,Low Risk
+TS-21655,2017-05-06,5,3368.094,239,1,3,4,8,Potential Loyalists,0,Medium Risk
+TT-21070,2017-11-29,7,4915.602,32,4,4,5,13,Champions,2,Low Risk
+TT-21220,2017-06-30,8,1427.044,184,2,4,2,8,Potential Loyalists,0,Medium Risk
+TT-21265,2016-11-19,3,439.5,407,1,1,1,3,Lost Customers,1,Medium Risk
+TT-21460,2017-12-18,7,5364.808,13,5,4,5,14,Champions,2,Low Risk
+TW-21025,2017-10-27,7,5278.825999999999,65,3,4,5,12,Loyal Customers,2,Low Risk
+TZ-21580,2017-11-25,4,1707.286,36,4,2,2,8,Potential Loyalists,0,Low Risk
+VB-21745,2017-11-06,6,2005.596,55,3,3,3,9,Potential Loyalists,0,Low Risk
+VD-21670,2016-05-28,6,6442.254,582,1,3,5,9,Potential Loyalists,1,Medium Risk
+VF-21715,2017-12-17,5,847.944,14,5,3,1,9,Potential Loyalists,0,Low Risk
+VG-21790,2017-07-29,6,846.01,155,2,3,1,6,At Risk,0,Medium Risk
+VG-21805,2017-03-19,5,427.372,287,1,3,1,5,At Risk,0,Medium Risk
+VM-21685,2017-11-06,7,2454.866,55,3,4,3,10,Loyal Customers,0,Low Risk
+VM-21835,2017-09-04,5,380.69,118,2,3,1,6,At Risk,0,Medium Risk
+VP-21730,2017-11-30,3,993.902,31,4,1,2,7,Potential Loyalists,0,Medium Risk
+VP-21760,2017-10-16,7,3360.526,76,3,4,4,11,Loyal Customers,0,Low Risk
+VS-21820,2017-05-23,4,1055.981,222,2,2,2,6,At Risk,0,Medium Risk
+VT-21700,2015-04-05,2,1736.596,1001,1,1,2,4,Lost Customers,1,High Risk
+VW-21775,2017-12-02,10,6134.0380000000005,29,4,5,5,14,Champions,2,Low Risk
+WB-21850,2017-12-10,11,6160.102,21,5,5,5,15,Champions,2,Low Risk
+XP-21865,2017-11-17,11,2374.658,44,4,5,3,12,Loyal Customers,2,Low Risk
+YC-21895,2017-12-26,5,5454.35,5,5,3,5,13,Champions,0,Low Risk
+YS-21880,2017-12-21,8,6720.444,10,5,4,5,14,Champions,2,Low Risk
+ZC-21910,2017-11-06,13,8025.707,55,3,5,5,13,Champions,2,Low Risk
+ZD-21925,2017-06-11,5,1493.944,203,2,3,2,7,Potential Loyalists,0,Medium Risk
